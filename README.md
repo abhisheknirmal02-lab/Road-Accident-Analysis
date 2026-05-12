@@ -94,11 +94,9 @@ Calender = CALENDAR(MIN(Data[Accident Date]), MAX(Data[Accident Date]))
 
 ├── [Road_Accident.pbix](https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20Accident.pbix)    # Power BI report file
 ├── [Road_Accident_Dax.xlsx](https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20Accident%20Dax.xlsx)   # DAX measures reference sheet
-├── 
-│ 
-└── [Dashboard preview]((https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20accident.png))
+├── [Dashboard preview]((https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20accident.png))
 
----
+
 
 ## 🚀 How to Use
 
