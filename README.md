@@ -1,8 +1,8 @@
 # 🚦 Road Accident Analysis — Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Time%20Intelligence-blue)
-![Domain](https://img.shields.io/badge/Domain-Public%20Safety-red)
+![Power BI](https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20Accident.pbix)
+![DAX](https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20Accident%20Dax.xlsx)
+![Domain](https://github.com/abhisheknirmal02-lab/Road-Accident-Analysis/blob/main/Road%20accident.png)
 
 A single-page **road accident analytics dashboard** built in Power BI that analyses UK road casualty data across vehicle types, road types, light conditions, and geographic locations. The report enables year-over-year performance tracking and helps transport authorities and safety planners identify high-risk patterns — filtered interactively by road surface and weather conditions.
 
@@ -93,7 +93,7 @@ Calender = CALENDAR(MIN(Data[Accident Date]), MAX(Data[Accident Date]))
 ## 📂 Files
 
 ```
-├── Road_Accident.pbix        # Power BI report file
+├── Road_Accident.pbix      # Power BI report file
 ├── Road_Accident_Dax.xlsx    # DAX measures reference sheet
 ├── data/
 │   └── road_accident_data.csv
